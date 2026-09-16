@@ -1,2 +1,2 @@
 def price(n):
-    return n * 10
+    return n * 0.9
